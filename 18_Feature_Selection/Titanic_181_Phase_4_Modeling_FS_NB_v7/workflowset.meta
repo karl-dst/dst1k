@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This file is auto-generated and is overwritten each time the workflow is saved.
+    The metadata have moved to the `workflow-metadata.xml` file.-->
+<KNIMEMetaInfo nrOfElements="4" xmlns="http://www.knime.org/2.9/metainfo">
+    <element form="text" name="Author" read-only="false">Karl (i3-Versicherung)</element>
+    <element form="date" name="Creation Date" read-only="false">23/2/2023/12:00:01 +02:00</element>
+    <element form="multiline" name="Comments" read-only="false">There has been no title set for this workflow's metadata.
+
+Titanic_181_Phase_4_Modeling_FS_NB_v7
+
+Titanic: Phase 4 (Modeling) Feature Selection Random Forest v7
+
+URL: Data Science Training - Kapitel 18 https://data-science.training/kapitel-18/
+
+TAGS: Titanic,Phase 4,Modeling,Feature Selection,Naive Bayes,NB,v7</element>
+    <element form="text" name="Last Edited" read-only="true">2023-08-17 09:10:45 +0200</element>
+</KNIMEMetaInfo>
