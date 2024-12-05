@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This file is auto-generated and is overwritten each time the workflow is saved.
+    The metadata have moved to the `workflow-metadata.xml` file.-->
+<KNIMEMetaInfo nrOfElements="4" xmlns="http://www.knime.org/2.9/metainfo">
+    <element form="text" name="Author" read-only="false">Karl (i3-Versicherung)</element>
+    <element form="date" name="Creation Date" read-only="false">23/2/2023/12:00:01 +02:00</element>
+    <element form="multiline" name="Comments" read-only="false">There has been no title set for this workflow's metadata.
+
+Titanic_153_AgeBinned_Phase_4_Modeling_(f)_LR
+
+Titanic: AgeBinned Phase 4 (Modeling) Logistic Regression
+
+URL: Data Science Training - Kapitel 15 https://data-science.training/kapitel-15/
+
+TAGS: Titanic,AgeBinned,Phase 4,Modeling,Logistic Regression,LR</element>
+    <element form="text" name="Last Edited" read-only="true">2023-08-17 09:03:49 +0200</element>
+</KNIMEMetaInfo>
