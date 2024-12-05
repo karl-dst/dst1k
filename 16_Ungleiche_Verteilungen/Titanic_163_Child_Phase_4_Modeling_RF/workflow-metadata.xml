@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow-metadata content-type="text/plain" xmlns="http://www.knime.org/core/node/workflow/metadata/v1.0">
+    <author>Karl (i3-Versicherung)</author>
+    <created>2023-03-23T12:00:01.000+02:00</created>
+    <last-modified>2023-08-17T09:07:30.612+02:00</last-modified>
+    <description>Titanic_163_Child_Phase_4_Modeling_RF
+
+Titanic: Child Phase 4 (Modeling) Random Forest</description>
+    <tags>
+        <tag>Titanic</tag>
+        <tag>Child</tag>
+        <tag>Phase 4</tag>
+        <tag>Modeling</tag>
+        <tag>Random Forest</tag>
+        <tag>RF</tag>
+    </tags>
+    <links>
+        <link href="https://data-science.training/kapitel-16/">Data Science Training - Kapitel 16</link>
+    </links>
+</workflow-metadata>
