@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow-metadata content-type="text/plain" xmlns="http://www.knime.org/core/node/workflow/metadata/v1.0">
+    <author>Karl (i3-Versicherung)</author>
+    <created>2023-03-23T12:00:01.000+02:00</created>
+    <last-modified>2023-08-16T21:09:05.689+02:00</last-modified>
+    <description>Titanic_037_Phase_5_Evaluation
+
+Titanic: Phase 5 (Evaluation) Modelle 1 bis 5</description>
+    <tags>
+        <tag>Titanic</tag>
+        <tag>Phase 5</tag>
+        <tag>Evaluation</tag>
+        <tag>Modell 1</tag>
+        <tag>Modell 2</tag>
+        <tag>Modell 3</tag>
+        <tag>Modell 4</tag>
+        <tag>Modell 5</tag>
+    </tags>
+    <links>
+        <link href="https://data-science.training/kapitel-3/">Data Science Training - Kapitel 3</link>
+    </links>
+</workflow-metadata>
