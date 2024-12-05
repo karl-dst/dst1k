@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><met:KNIMEMetaInfo xmlns:met="http://www.knime.org/2.9/metainfo">
+    <met:element form="text" read-only="false" name="Author">Karl (i3-Versicherung)</met:element>
+    <met:element form="date" read-only="false" name="Creation Date">23/2/2023/12:00:01 +02:00</met:element>
+    <met:element form="multiline" read-only="false" name="Comments">06_Auswertung_und_Einsatz_der_Ergebnisse
+
+Data Science Training - Kapitel 6: Auswertung und Einsatz der Ergebnisse
+
+URL: Data Science Training - Kapitel 6 https://data-science.training/kapitel-6/
+TAGS: Data Science Training,DST,Auswertung und Einsatz der Ergebnisse,Titanic</met:element>
+</met:KNIMEMetaInfo>
