@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow-metadata content-type="text/plain" xmlns="http://www.knime.org/core/node/workflow/metadata/v1.0">
+    <author>Karl (i3-Versicherung)</author>
+    <created>2023-03-23T12:00:01.000+02:00</created>
+    <last-modified>2023-08-16T21:36:00.393+02:00</last-modified>
+    <description>Titanic_058_Phase_3_Data_Preparation_v5
+
+Titanic: Phase 3 (Data Preparation) v5</description>
+    <tags>
+        <tag>Titanic</tag>
+        <tag>Phase 3</tag>
+        <tag>Data Preparation</tag>
+        <tag>v5</tag>
+    </tags>
+    <links>
+        <link href="https://data-science.training/kapitel-5/">Data Science Training - Kapitel 5</link>
+    </links>
+</workflow-metadata>
