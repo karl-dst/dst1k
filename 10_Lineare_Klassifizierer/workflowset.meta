@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><met:KNIMEMetaInfo xmlns:met="http://www.knime.org/2.9/metainfo">
+    <met:element form="text" read-only="false" name="Author">Karl (i3-Versicherung)</met:element>
+    <met:element form="date" read-only="false" name="Creation Date">23/2/2023/12:00:01 +02:00</met:element>
+    <met:element form="multiline" read-only="false" name="Comments">10_Lineare_Klassifizierer
+
+Data Science Training - Kapitel 10: Lineare Klassifizierer
+
+URL: Data Science Training - Kapitel 10 https://data-science.training/kapitel-10/
+TAGS: Data Science Training,DST,Lineare Klassifizierer,Titanic</met:element>
+</met:KNIMEMetaInfo>

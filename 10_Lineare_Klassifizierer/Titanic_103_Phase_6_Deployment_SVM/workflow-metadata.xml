@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow-metadata content-type="text/plain" xmlns="http://www.knime.org/core/node/workflow/metadata/v1.0">
+    <author>Karl (i3-Versicherung)</author>
+    <created>2023-03-23T12:00:01.000+02:00</created>
+    <last-modified>2023-08-16T22:06:45.260+02:00</last-modified>
+    <description>Titanic_103_Phase_6_Deployment_SVM
+
+Titanic: Phase 6 (Deployment) Support Vector Machine v5</description>
+    <tags>
+        <tag>Titanic</tag>
+        <tag>Phase 6</tag>
+        <tag>Deployment</tag>
+        <tag>Support Vector Machine</tag>
+        <tag>SVM</tag>
+        <tag>v5</tag>
+    </tags>
+    <links>
+        <link href="https://data-science.training/kapitel-10/">Data Science Training - Kapitel 10</link>
+    </links>
+</workflow-metadata>
