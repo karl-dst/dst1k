@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow-metadata content-type="text/plain" xmlns="http://www.knime.org/core/node/workflow/metadata/v1.0">
+    <author>Karl (i3-Versicherung)</author>
+    <created>2023-03-23T12:00:01.000+02:00</created>
+    <last-modified>2023-08-16T22:11:19.171+02:00</last-modified>
+    <description>Titanic_112_Phase_5_Evaluation_RF
+
+Titanic: Phase 5 (Evaluation) Random Forest v0 v3 v4 v5</description>
+    <tags>
+        <tag>Titanic</tag>
+        <tag>Phase 5</tag>
+        <tag>Evaluation</tag>
+        <tag>Random Forest</tag>
+        <tag>RF</tag>
+        <tag>v0</tag>
+        <tag>v3</tag>
+        <tag>v4</tag>
+        <tag>v5</tag>
+    </tags>
+    <links>
+        <link href="https://data-science.training/kapitel-11/">Data Science Training - Kapitel 11</link>
+    </links>
+</workflow-metadata>
