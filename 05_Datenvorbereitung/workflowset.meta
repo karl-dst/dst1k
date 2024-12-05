@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><met:KNIMEMetaInfo xmlns:met="http://www.knime.org/2.9/metainfo">
+    <met:element form="text" read-only="false" name="Author">Karl (i3-Versicherung)</met:element>
+    <met:element form="date" read-only="false" name="Creation Date">23/2/2023/12:00:01 +02:00</met:element>
+    <met:element form="multiline" read-only="false" name="Comments">05_Datenvorbereitung
+
+Data Science Training - Kapitel 5: Datenvorbereitung
+
+URL: Data Science Training - Kapitel 5 https://data-science.training/kapitel-5/
+TAGS: Data Science Training,DST,Datenvorbereitung,Titanic</met:element>
+</met:KNIMEMetaInfo>
