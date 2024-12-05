@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow-metadata content-type="text/plain" xmlns="http://www.knime.org/core/node/workflow/metadata/v1.0">
+    <author>Karl (i3-Versicherung)</author>
+    <created>2023-03-23T12:00:01.000+02:00</created>
+    <last-modified>2023-08-16T22:18:14.115+02:00</last-modified>
+    <description>Titanic_136_Age_Phase_4_Lineare_Regression
+
+Titanic: Age Phase 4 (Modeling) Lineare Regression</description>
+    <tags>
+        <tag>Titanic</tag>
+        <tag>Age</tag>
+        <tag>Phase 4</tag>
+        <tag>Modeling</tag>
+        <tag>Lineare Regression</tag>
+        <tag>T-Test</tag>
+    </tags>
+    <links>
+        <link href="https://data-science.training/kapitel-13/">Data Science Training - Kapitel 13</link>
+    </links>
+</workflow-metadata>
