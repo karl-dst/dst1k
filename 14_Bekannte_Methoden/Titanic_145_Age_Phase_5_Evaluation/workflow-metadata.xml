@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow-metadata content-type="text/plain" xmlns="http://www.knime.org/core/node/workflow/metadata/v1.0">
+    <author>Karl (i3-Versicherung)</author>
+    <created>2023-03-23T12:00:01.000+02:00</created>
+    <last-modified>2023-08-17T08:59:46.854+02:00</last-modified>
+    <description>Titanic_145_Age_Phase_5_Evaluation
+
+Titanic: Age Phase 5 (Evaluation) Lineare Regression, Polynomiale Regression, Simple Regression Tree, Random Forest, Gradient Boosted Trees, Multilayer Perzeptron</description>
+    <tags>
+        <tag>Titanic</tag>
+        <tag>Age</tag>
+        <tag>Phase 5</tag>
+        <tag>Evaluation</tag>
+        <tag>Lineare Regression</tag>
+        <tag>Polynomiale Regression</tag>
+        <tag>Simple Regression Tree</tag>
+        <tag>RT</tag>
+        <tag>Random Forest</tag>
+        <tag>RF</tag>
+        <tag>Gradient Boosted Trees</tag>
+        <tag>GBT</tag>
+        <tag>Multilayer Perzeptron</tag>
+        <tag>MLP</tag>
+    </tags>
+    <links>
+        <link href="https://data-science.training/kapitel-14/">Data Science Training - Kapitel 14</link>
+    </links>
+</workflow-metadata>

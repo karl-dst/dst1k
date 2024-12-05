@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This file is auto-generated and is overwritten each time the workflow is saved.
+    The metadata have moved to the `workflow-metadata.xml` file.-->
+<KNIMEMetaInfo nrOfElements="4" xmlns="http://www.knime.org/2.9/metainfo">
+    <element form="text" name="Author" read-only="false">Karl (i3-Versicherung)</element>
+    <element form="date" name="Creation Date" read-only="false">23/2/2023/12:00:01 +02:00</element>
+    <element form="multiline" name="Comments" read-only="false">There has been no title set for this workflow's metadata.
+
+Titanic_145_Age_Phase_5_Evaluation
+
+Titanic: Age Phase 5 (Evaluation) Lineare Regression, Polynomiale Regression, Simple Regression Tree, Random Forest, Gradient Boosted Trees, Multilayer Perzeptron
+
+URL: Data Science Training - Kapitel 14 https://data-science.training/kapitel-14/
+
+TAGS: Titanic,Age,Phase 5,Evaluation,Lineare Regression,Polynomiale Regression,Simple Regression Tree,RT,Random Forest,RF,Gradient Boosted Trees,GBT,Multilayer Perzeptron,MLP</element>
+    <element form="text" name="Last Edited" read-only="true">2023-08-17 08:59:46 +0200</element>
+</KNIMEMetaInfo>
