@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow-metadata content-type="text/plain" xmlns="http://www.knime.org/core/node/workflow/metadata/v1.0">
+    <author>Karl (i3-Versicherung)</author>
+    <created>2023-03-23T12:00:01.000+02:00</created>
+    <last-modified>2023-08-16T22:09:28.491+02:00</last-modified>
+    <description>Titanic_106_Phase_6_Deployment_LR
+
+Titanic: Phase 6 (Deployment) Logistic Regression v4</description>
+    <tags>
+        <tag>Titanic</tag>
+        <tag>Phase 6</tag>
+        <tag>Deployment</tag>
+        <tag>Logistic Regression</tag>
+        <tag>LR</tag>
+        <tag>v4</tag>
+    </tags>
+    <links>
+        <link href="https://data-science.training/kapitel-10/">Data Science Training - Kapitel 10</link>
+    </links>
+</workflow-metadata>
