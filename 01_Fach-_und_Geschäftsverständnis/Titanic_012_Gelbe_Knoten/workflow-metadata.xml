@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow-metadata content-type="text/plain" xmlns="http://www.knime.org/core/node/workflow/metadata/v1.0">
+    <author>Karl (i3-Versicherung)</author>
+    <created>2023-03-23T12:00:01.000+02:00</created>
+    <last-modified>2023-08-16T20:05:43.155+02:00</last-modified>
+    <description>Titanic_012_Gelbe_Knoten
+
+Einige Knoten zur Daten(vor)verarbeitung</description>
+    <tags>
+        <tag>Datenverarbeitung</tag>
+    </tags>
+    <links>
+        <link href="https://data-science.training/kapitel-1/">Data Science Training - Kapitel 1</link>
+    </links>
+</workflow-metadata>

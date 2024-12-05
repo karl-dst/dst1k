@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><met:KNIMEMetaInfo xmlns:met="http://www.knime.org/2.9/metainfo">
+    <met:element form="text" read-only="false" name="Author">Karl (i3-Versicherung)</met:element>
+    <met:element form="date" read-only="false" name="Creation Date">23/2/2023/12:00:01 +02:00</met:element>
+    <met:element form="multiline" read-only="false" name="Comments">01_Fach-_und_Geschäftsverständnis
+
+Data Science Training - Kapitel 1: Fach- und Geschäftsverständnis
+
+URL: Data Science Training - Kapitel 1 https://data-science.training/kapitel-1/
+TAGS: Data Science Training,DST,Fach- und Geschäftsverständnis,Titanic</met:element>
+</met:KNIMEMetaInfo>
