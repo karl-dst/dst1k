@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow-metadata content-type="text/plain" xmlns="http://www.knime.org/core/node/workflow/metadata/v1.0">
+    <author>Karl (i3-Versicherung)</author>
+    <created>2023-03-23T12:00:01.000+02:00</created>
+    <last-modified>2023-08-16T21:21:09.427+02:00</last-modified>
+    <description>Titanic_046_Phase_4_Modeling_kNN_Kreuzvalidierung
+
+Titanic: Phase 4 (Modeling) k-nearest Neighbor und Kreuzvalidierung</description>
+    <tags>
+        <tag>Titanic</tag>
+        <tag>Phase 4</tag>
+        <tag>Modeling</tag>
+        <tag>k-nearest Neighbor</tag>
+        <tag>kNN</tag>
+        <tag>Kreuzvalidierung</tag>
+    </tags>
+    <links>
+        <link href="https://data-science.training/kapitel-4/">Data Science Training - Kapitel 4</link>
+    </links>
+</workflow-metadata>
