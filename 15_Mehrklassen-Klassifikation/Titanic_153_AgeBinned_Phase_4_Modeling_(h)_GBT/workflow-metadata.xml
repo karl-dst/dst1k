@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow-metadata content-type="text/plain" xmlns="http://www.knime.org/core/node/workflow/metadata/v1.0">
+    <author>Karl (i3-Versicherung)</author>
+    <created>2023-03-23T12:00:01.000+02:00</created>
+    <last-modified>2023-08-17T09:04:18.766+02:00</last-modified>
+    <description>Titanic_153_AgeBinned_Phase_4_Modeling_(h)_GBT
+
+Titanic: AgeBinned Phase 4 (Modeling) Gradient Boosted Trees</description>
+    <tags>
+        <tag>Titanic</tag>
+        <tag>AgeBinned</tag>
+        <tag>Phase 4</tag>
+        <tag>Modeling</tag>
+        <tag>Gradient Boosted Trees</tag>
+        <tag>GBT</tag>
+    </tags>
+    <links>
+        <link href="https://data-science.training/kapitel-15/">Data Science Training - Kapitel 15</link>
+    </links>
+</workflow-metadata>
